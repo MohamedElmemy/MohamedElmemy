@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mohamed Elmemy
 
-<!--
-**MohamedElmemy/MohamedElmemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS Developer focused on building and improving iPhone apps using Swift, SwiftUI, and UIKit.
 
-Here are some ideas to get you started:
+## What I do
+- Build iOS app features
+- Fix bugs and improve existing apps
+- Convert Figma designs into iOS screens
+- Integrate APIs and improve app flows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Swift
+- SwiftUI
+- UIKit
+- MVVM
+- REST APIs
+- Firebase
+- Git
+
+## Featured Projects
+### 1. E-commerce iOS App
+A shopping app with product listing, product details, cart flow, and API integration.
+
+### 2. Booking / Services App
+An iOS app for booking flows, service listing, and date-based interactions.
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/mohamed-elmemy-43206b23a/
+- Upwork: https://www.upwork.com/freelancers/~01c392da4033df6bb9
